@@ -5,5 +5,13 @@ for num in arr:
     if num%m==0:
         count+=1:
         return count
+arr=[10,20,30,40,50]
+m=5
+result= count_divisibles(arr,m)
+print(f"number of elements divisible by{m}:{result}")
+    
+    
+
+
 
     
