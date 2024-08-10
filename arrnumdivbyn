@@ -1,0 +1,9 @@
+def count_divisibles(arr,m):
+count=0
+for num in arr:
+    element is divisible by m 
+    if num%m==0:
+        count+=1:
+        return count
+
+    
